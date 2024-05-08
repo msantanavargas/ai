@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce77617-946a-4913-838f-2bbcbd749861" name="Changes" comment="added layer 2">
+    <list default="true" id="4ce77617-946a-4913-838f-2bbcbd749861" name="Changes" comment="cleaned environment&#10;&#10;added comments to code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NeuralNetworks/nn-backpropagation-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks/nn-backpropagation-test.py" afterDir="false" />
     </list>
@@ -99,10 +99,20 @@
       <option name="presentableId" value="Default" />
       <updated>1714757557181</updated>
     </task>
+    <task id="LOCAL-00001" summary="cleaned environment&#10;&#10;added comments to code">
+      <option name="closed" value="true" />
+      <created>1715187283593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715187283593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added layer 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added layer 2" />
+    <MESSAGE value="cleaned environment&#10;&#10;added comments to code" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned environment&#10;&#10;added comments to code" />
   </component>
 </project>

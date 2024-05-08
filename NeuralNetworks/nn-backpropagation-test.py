@@ -9,7 +9,7 @@ my_inputs = [2, 3]
 my_output = 1
 
 # learning rate
-0.05
+a = 0.05
 
 
 # 2 vector initial weights:
@@ -24,20 +24,30 @@ my_layer1_weights = np.array([[0.11, 0.12],
 
 # Layer1
 # L1 = i1 * w1  +  i2 * w2
+
 layer1 = np.dot(my_inputs,my_layer1_weights)
 
-#Layer2
+# Layer2
 # w5 = 0.14
 # w6 = 0.15
+
 my_layer2_weights = [.14, .15]
+
+# Estimated Output
+# Output = L2 = w5 * L1  +  w6 * L2
 
 layer2 = np.dot(layer1,my_layer2_weights)
 
-error = 1/2 * (my_output - layer2) ** 2
+# Error -- MSE -- Mean Square Error
 
+error = 1/2 * (layer2 - my_output) ** 2
 
-#Backward Pass   (move according to gradient)
+# Derivative of the error (with respect to weights
+# Derivative( Weight - Learning rate * MSE)
 
 delta = layer2 - my_output
+
+
+# Backward Pass   (move according to gradient)
 
 my_new_layer2_weights = my_layer2_weights - (a * delta * layer1)

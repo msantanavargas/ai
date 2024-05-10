@@ -67,3 +67,7 @@ my_new_layer1_weights = my_layer1_weights - (a * delta) * np.dot(my_inputs.resha
 layer1_2nd_pass_output = np.dot(my_inputs,my_new_layer1_weights)
 layer2_2nd_pass_output = np.dot(layer1_2nd_pass_output,my_new_layer2_weights)
 error_2nd_pass = 1/2 * (layer2_2nd_pass_output - my_output) ** 2
+
+print('Expected Output: 1')
+print(f'Output on 1st forward pass: {layer2_output}')
+print(f'Output on 2nd forward pass: {layer2_2nd_pass_output}')

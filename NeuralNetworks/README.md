@@ -15,4 +15,5 @@ The NN has:
 
 This is a python implementation.
 
-The file nn-backpropagation-manual-step-by-step.py is ste by step manual example
+The file [nn-backpropagation-manual-step-by-step.py](nn-backpropagation-manual-step-by-step.py) is a step by step manual example
+The file [nn-backpropagation.py](nn-backpropagation.py) is an implementation with parameters that allow for searching optimal weights 

@@ -4,6 +4,8 @@ This example is based off the problem presented in :
 
 https://hmkcode.com/ai/backpropagation-step-by-step/
 
+Also, this particular implementation is done without any machine learning libraries.
+
 The NN has:
 
 1. Two inputs: 2 and 3

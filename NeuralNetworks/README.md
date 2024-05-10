@@ -13,4 +13,6 @@ The NN has:
    3.2 layer 2: .14 .15
 
 
-This is a python implementation 
+This is a python implementation.
+
+The file nn-backpropagation-step-by-step.py is ste by step manual example

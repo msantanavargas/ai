@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce77617-946a-4913-838f-2bbcbd749861" name="Changes" comment="added loop">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetworks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetworks/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4ce77617-946a-4913-838f-2bbcbd749861" name="Changes" comment="added readme details" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715360691682</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added readme details">
+      <option name="closed" value="true" />
+      <created>1715362420265</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715362420265</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +231,7 @@
     <MESSAGE value="cleaned environment&#10;&#10;added readme" />
     <MESSAGE value="cleaned environment&#10;&#10;added readme and comments to the python file" />
     <MESSAGE value="added loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="added loop" />
+    <MESSAGE value="added readme details" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme details" />
   </component>
 </project>

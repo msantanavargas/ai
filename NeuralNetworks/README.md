@@ -15,4 +15,4 @@ The NN has:
 
 This is a python implementation.
 
-The file nn-backpropagation-step-by-step.py is ste by step manual example
+The file nn-backpropagation-manual-step-by-step.py is ste by step manual example

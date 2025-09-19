@@ -1,2 +1,5 @@
 /.venv/
 /.idea/
+/webui.sh
+/data-science/kaggle/creditcard.csv
+/data-science/kaggle/creditcard.csv.zip
